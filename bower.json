@@ -14,5 +14,9 @@
     "Eames",
     "MongoDB"
   ],
-  "homepage": ""
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "toastr": "^2.1.3"
+  }
 }

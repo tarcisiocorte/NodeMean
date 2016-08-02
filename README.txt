@@ -16,4 +16,7 @@ Bower
 
 run the command:
 bower init
+
+bower install jquery -save
 -------------------------------------------------
+
