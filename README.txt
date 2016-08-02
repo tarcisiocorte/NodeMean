@@ -17,6 +17,10 @@ Bower
 run the command:
 bower init
 
-bower install jquery -save
+bower install jquery --save
+
+bower install toastr --save
+
+bower install angular angular-resource angular-route --save
 -------------------------------------------------
 
