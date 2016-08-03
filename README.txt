@@ -22,5 +22,10 @@ bower install jquery --save
 bower install toastr --save
 
 bower install angular angular-resource angular-route --save
--------------------------------------------------
+------------------------------------------------------------
 
+npm install stylus morgan body-parser --save
+--------------------------------------------
+
+npm install mongoose --save
+---------------------------
