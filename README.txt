@@ -29,3 +29,8 @@ npm install stylus morgan body-parser --save
 
 npm install mongoose --save
 ---------------------------
+
+Set environment
+
+set NODE_ENV = development
+--------------------------
