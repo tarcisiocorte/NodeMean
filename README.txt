@@ -34,3 +34,19 @@ Set environment
 
 set NODE_ENV = development
 --------------------------
+
+
+Login into Heroku
+
+heroku login
+------------
+
+Create new application into Heroku
+
+heroku create
+-------------
+
+Set Heroku as Production
+c:\Dev\node-mean>heroku config:set NODE_ENV=production
+-------------------------------------------------------
+
