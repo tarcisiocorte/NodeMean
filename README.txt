@@ -1,31 +1,4 @@
-npm init
---------------------
-
-npm install --save express jade
---------------------------------
-
-git init
---------------------------------
-
-npm install bower --save-dev
---------------------------------
-
-Bower
-
-1 - First create the file .bower into project
-
-run the command:
-bower init
-
-bower install jquery --save
-
-bower install toastr --save
-
-bower install angular angular-resource angular-route --save
-------------------------------------------------------------
-
-npm install stylus morgan body-parser --save
---------------------------------------------
-
-npm install mongoose --save
----------------------------
+To run this application, start your mongo server & do the following from the command line:
+bower install
+npm install
+nodemon server.js
