@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 To run this application, start your mongo server & do the following from the command line:
 bower install
 npm install
@@ -55,5 +55,3 @@ heroku create
 Set Heroku as Production
 c:\Dev\node-mean>heroku config:set NODE_ENV=production
 -------------------------------------------------------
-
->>>>>>> 972d72b90939902901953bab42366c20e56e81da
