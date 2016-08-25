@@ -54,4 +54,11 @@ heroku create
 
 Set Heroku as Production
 c:\Dev\node-mean>heroku config:set NODE_ENV=production
--------------------------------------------------------
+------------------------------------------------------
+
+Passport to authentication
+
+npm install passport passport-local --save
+npm install cookie-parser express-session --save
+------------------------------------------
+
