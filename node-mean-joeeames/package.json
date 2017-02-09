@@ -1,0 +1,27 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.4.x",
+    "npm": "3.10.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.8.1",
+    "morgan": "^1.7.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
+}
